@@ -1,0 +1,13 @@
+@media (max-width:400px){
+    .app-container{
+        width: 280px;
+        height: 450px;
+        margin: 0px 20px;
+    }
+    .search>input{
+        width: 230px;
+    }
+    .more-details{
+        gap: 30px !important;
+    }
+}
