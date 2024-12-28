@@ -1,4 +1,6 @@
-# 30 Projects using React and Tailwind
+# 30 Projects
+
+# Tools: React, Tailwind and vite
 
 ## Developer Name : Anish Kumar Singh
 
