@@ -1,7 +1,7 @@
 @media (max-width: 400px) {
   .todo-container {
-    min-width: 350px !important;
-    margin: 0 15px !important;
+    max-width: 370px !important;
+    margin: 0 20px !important;
   }
   .todo-container h1 {
     font-size: 20px;
@@ -14,7 +14,11 @@
   .todo-heading svg {
     font-size: 20px;
   }
+  .left {
+    gap: 10px !important;
+  }
   .left h1 {
+    font-size: 16px;
     width: 85%;
   }
 }
